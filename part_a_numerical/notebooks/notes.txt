@@ -1,0 +1,3 @@
+use the log target for training the models 
+use target encoding and one_hot....
+at all , you can review claude chat 
